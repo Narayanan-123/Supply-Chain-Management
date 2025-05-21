@@ -1,6 +1,5 @@
 ## COLLEGE CODE : 1125
-## COLLEGE NAME : Sri Venkateswara Institute of Science
-and Technology, Tiruvallur
+## COLLEGE NAME : Sri Venkateswara Institute of Science and Technology, Tiruvallur
 ## DEPARTMENT : CSE,AI&DS,AI&DS,ECE.
   ##    STUDENT NM-ID :
 e5060b6759388fd9e8d4d11d31bf6529
